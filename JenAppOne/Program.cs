@@ -7,6 +7,6 @@ namespace JenAppOne
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Designed & Powered By Kumaran P T :) !");        }
+            Console.WriteLine("Designed & Powered By Kumaran P T !");        }
     }
 }
